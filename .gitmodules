@@ -1,0 +1,3 @@
+[submodule "subproject-example-vscode"]
+	path = subproject-example-vscode
+	url = git@github.com:deyvisonrocha/subproject-example-vscode.git
