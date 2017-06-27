@@ -1,0 +1,3 @@
+/subproject-example-vscode/
+/subproject-example-vscode/*
+!/subproject-example-vscode/empty
